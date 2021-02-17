@@ -1,0 +1,142 @@
+[
+    {   
+        "Nombre" : "Poción de fuerza",
+        "Attack" : 3,
+        "Defense" : 1,
+        "Magic" : 0,
+        "Medicine" : 0
+    },     
+    {   
+        "Nombre" : "Poción coronavirus",
+        "Attack" : 2,
+        "Defense" : 0,
+        "Magic" : 0,
+        "Medicine" : 0
+    },
+    {
+        "Nombre" : "Poción petrificante",
+        "Attack" : 2,
+        "Defense" : 1,
+        "Magic" : 0,
+        "Medicine" : 0
+    },
+    {
+        "Nombre" : "Poción de velocidad",
+        "Attack" : 3,
+        "Defense" : 0,
+        "Magic" : 0,
+        "Medicine" : 0
+    },
+    {
+        "Nombre" : "Poción de ataque rápido",
+        "Attack" : 2,
+        "Defense" : 0,
+        "Magic" : 0,
+        "Medicine" : 0
+    },
+    {
+        "Nombre" : "Poción de vitalidad",
+        "Attack" : 0,
+        "Defense" : 3,
+        "Magic" : 0,
+        "Medicine" : 0
+    },
+    {
+        "Nombre" : "Poción de estamina",
+        "Attack" : 1,
+        "Defense" : 2,
+        "Magic" : 0,
+        "Medicine" : 0
+    },
+    {
+        "Nombre" : "Poción de tenacidad",
+        "Attack" : 1,
+        "Defense" : 2,
+        "Magic" : 0,
+        "Medicine" : 0
+    },
+    { 
+        "Nombre" : "Poción escudo",
+        "Attack" : 0,
+        "Defense" : 2,
+        "Magic" : 0,
+        "Medicine" : 0
+    },
+    {
+        "Nombre" : "Poción de vida",
+        "Attack" : 0,
+        "Defense" : 3,
+        "Magic" : 0,
+        "Medicine" : 0
+    },
+    {      
+        "Nombre" : "Poción puchi",
+        "Attack" : 0,
+        "Defense" : 3,
+        "Magic" : 0,
+        "Medicine" : 0
+    },
+    { 
+        "Nombre" : "Poción transformadora",
+        "Attack" : 0,
+        "Defense" : 0,
+        "Magic" : 2,
+        "Medicine" : 0
+    },
+    {
+        "Nombre" : "Poción congeladora",
+        "Attack" : 0,
+        "Defense" : 0,
+        "Magic" : 2,
+        "Medicine" : 0
+    },
+    {
+        "Nombre" : "Poción de telentrasporte",
+        "Attack" : 0,
+        "Defense" : 0,
+        "Magic" : 3,
+        "Medicine" : 0
+    },
+    {
+        "Nombre" : "Poción electrizante",
+        "Attack" : 0,
+        "Defense" : 0,
+        "Magic" : 2,
+        "Medicine" : 1
+    },
+    {
+        "Nombre" : "Poción aspirinium",
+        "Attack" : 0,
+        "Defense" : 0,
+        "Magic" : 0,
+        "Medicine" : 2
+    },
+    {
+        "Nombre" : "Poción sanadora",
+        "Attack" : 0,
+        "Defense" : 0,
+        "Magic" : 1,
+        "Medicine" : 2
+    },
+    {
+        "Nombre" : "Poción regenerante",
+        "Attack" : 0,
+        "Defense" : 0,
+        "Magic" : 1,
+        "Medicine" : 2
+    },
+    {
+        "Nombre" : "Poción recuperador",
+        "Attack" : 0,
+        "Defense" : 0,
+        "Magic" : 0,
+        "Medicine" : 3
+    },
+    {    
+        "Nombre" : "Poción secreta",
+        "Attack" : 0,
+        "Defense" : 0,
+        "Magic" : 0,
+        "Medicine" : 3
+    }
+]

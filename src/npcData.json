@@ -1,0 +1,87 @@
+{
+    "0" : { 
+        "sprite": "resources/npc/campesino",
+        "moneyMax": 15,
+        "row": [0,0,0,0,0,0,0],
+        "col": [0,1,2,3,4,5,6],
+        "quest":
+                {
+                "1": "Ey moza, tengo a un bichejo tocándome \nlo’cultivo, necesitaría algo d’ayuda\n per si acás.",
+                "2": "Lilith cariñet, el meu cosí el Paco\nnecesita algo para aguantar las \njornadas al camp.",
+                "3": "Nana, Nos faría falta una pócima\nmagica per a arrancar les males herbes,\nmoltes gracias.",
+                "4": "Bonica meua, en tengo una mocarra\nque no se va desde fa días, una goteta\n me faría la setmana.",
+                "5": "El arbolet que ha crecido al meu camp\nes molt dur, necesito una ayudita per\na tumbarlo",
+                "6": "Xiqueta, donam alguna coseta para\ndefendernos dels anecs.",
+                "7": "Nebota, he escoltat que la tuya magia\nayuda a cultivar millor els cultius\ny no es vendría mal",
+                "8": "Amb aquest monarquiaVirus no ens podem\n independitzar del camp, necesitem algo\nper a sanarnos"
+                }
+    },
+    "1" : {
+        "sprite": "resources/npc/guerrero",
+        "moneyMax": 22,
+        "row": [0,0,0,0,0,0,0],
+        "col": [0,1,2,3,4,5,6],
+        "quest":
+                {
+                "1": "Buenas, señorita maga.\nNecesito algo para ayudarme a \nenfrentarme  a unos rufianes.",
+                "2": "¡Maese maga! Están atacando el castillo\n necesito algo para defendernos.",
+                "3": "¡Joven! Necesitamos ayuda para luchar\ncontra un hereje que utiliza\nmagia oscura.",
+                "4": "¡Achús! Necesito algo para ayudar a\nmis anticuerpos españoles.",
+                "5": "¡Presto, maga! Hay una revuelta de\ncampesinos, necesito algo para\nretenerlos por la fuerza.",
+                "6": "Buen día, Doña Lilith. Nuestro espía\nnos ha hecho saber que hoy nos\natacarán. Necesitamos ayuda para\ndefendernos.",
+                "7": "Buenos días señorita Lilith. Necesito\nde tu magia para cazar a  un diablillo.",
+                "8": "Segñorita Liglith, me encuengto mal,\npogdria dagme algo para combagtir a un\nmalgdito virus élfico."
+                }
+    },
+    "2" : {
+        "sprite": "resources/npc/cazador",
+        "moneyMax": 17,
+        "row": [0,0,0,0,0,0,0],
+        "col": [0,1,2,3,4,5,6],
+        "quest":
+                {
+                "1": "Buenos días, hechicera. Desde hace días\nvoy detrás de un oso. ¿Podrías darme\nalgo para cazarlo?",
+                "2": "Buen día, maga. Necesito algo para\ndefenderme de un sharknado.",
+                "3": "Maga!! Rápido ayúdame, me persiguen una\nbanda de malvados. Necesito algo mágico\npara hacerles frente.",
+                "4": "Buenas, hace unos días que tengo fiebre,\ntos seca, dolor muscular y muchas ganas\nde viajar.¿Me podrías dar algo?",
+                "5": "Hola, señorita. Están siendo unos meses\nmuy malos. Necesito ayuda para cazar a\nun puma salvaje.",
+                "6": "Buenas señorita maga, me persigue una\nbandada. ¿Podrías darme algo\npara defenderme?",
+                "7": "¡Brujo, brujoooooooooo! Hay un brujo\nen la ciudad, necesito algo para\neludirlo.",
+                "8": "Ayudeme, señorita. Hace un par de meses\nme mordió un pangolín y me encuentro\nmuy mal. "
+                }
+    },
+    "3" : {
+        "sprite": "resources/npc/bardo",
+        "moneyMax": 19,
+        "row": [0,0,0,0,0,0,0],
+        "col": [0,1,2,3,4,5,6],
+        "quest":
+                {
+                "1": "Con una poción de Lilith en el combate\nno habrá nadie que pare nuestro ataque.",
+                "2": "Si me ayudas en la defensa\nobtendrás una recompensa.",
+                "3": "El futuro nos presagia.\nQue Lilith nos ayudará con su magia.",
+                "4": "Con pasión y con ternura\nLilith nos da el día con su\npoder para la cura.",
+                "5": "El guerrero lucha con mucho coraje\npeleando contra el que cometió ultraje.",
+                "6": "De tí va a depender,\nque el reino podamos defender.",
+                "7": "El futuro nos presagia\nQue Lilith nos ayudará con su magia.",
+                "8": "Si dices mucho achús allí se\nencontrará la brujita para darte\ncon su flush flush."
+                }
+    },
+    "4" : {
+        "sprite": "resources/npc/mago",
+        "moneyMax": 25,
+        "row": [0,0,0,0,0,0,0],
+        "col": [0,1,2,3,4,5,6],
+        "quest":
+                {
+                "1": "Hija,hay unos malandrines que intentan\n robarme. Podrías darme algo para \ndarles un escarmiento jejeje.",
+                "2": "Buenos días, niña. Ayudame a defenderme\n de unos mapaches enloquecidos.",
+                "3": "Joven hechicera,han venido unos…\n compañeros de gremio...\n¿Puedes darme algo mágico\n para estar preparado?",
+                "4": "¡JOVEN! Se han saltado la cuarentena\nen la capital del reino y han venido\na estas tierras. Necesito medicinas.",
+                "5": "Oye, hija,¿no tendrás alguna pócima\no mejunje para atacar a una panda de\n malhechores?",
+                "6": "Buenas, brujita. Necesito una mezcla\npara defenderme de mi cuñao.",
+                "7": "Hechicera,han venido unos antiguos\ncompañeros de la escuela de magia…\n¿Podrías darme algo para defenderme?",
+                "8": "*Cof, cof* Ayer... me fui a tomar algo\ncon unos compañeros*cof cof*.\n ¿Podrías darme algo?"
+                }
+    }
+}
