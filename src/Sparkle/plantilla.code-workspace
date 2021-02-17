@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp",
+			"*.tcc": "cpp",
+			"chrono": "cpp",
+			"new": "cpp",
+			"fstream": "cpp"
+		}
+	}
+}

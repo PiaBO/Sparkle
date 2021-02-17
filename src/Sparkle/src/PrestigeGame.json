@@ -1,0 +1,16 @@
+{"0" : { 
+    "back": "resources/game/back.png",
+    "table": "resources/game/table.png"},
+"1" : {
+    "back" : "resources/game/back1.png",
+    "table": "resources/game/table1.png"},
+"2" : {
+    "back" : "resources/game/back2.png",
+    "table": "resources/game/table2.png"},
+"3" : {
+    "back" : "resources/game/back3.png",
+    "table": "resources/game/table3.png"},
+"4" : {
+    "back" : "resources/game/back4.png",
+    "table": "resources/game/table4.png"}
+}
