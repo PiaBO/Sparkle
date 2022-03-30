@@ -1,8 +1,14 @@
 # Sparkle
-##  Proyecto para la asignatura fundamento de los videojuegos 2020 realizado por:
+  Project made  by 5 students of  Alicante University in 2020 for educational propouse.
 
-###   María Pía Barceló Orgiler
-###   David Martín Sala
-###   Miguel Ángel Martínez López
-###  David Mulero Pérez
-###   Tamara Torrecillas Martínez
+Aurhors:
+
+María Pía Barceló Orgiler
+
+David Martín Sala
+
+Miguel Ángel Martínez López
+
+David Mulero Pérez
+
+Tamara Torrecillas Martínez
