@@ -1,5 +1,5 @@
 # Sparkle
-  Project made  by 5 students of  Alicante University in 2020 for educational propouse.
+Videogame made by 5 students of Alicante University in 2020 for educational propose.
 
 Aurhors:
 
